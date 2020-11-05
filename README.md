@@ -58,7 +58,7 @@ For pinging [u Ping](https://gist.github.com/shawwwn/91cc8979e33e82af6d99ec34c38
    
    Boot the board, connect and disconnect each device to make sure everything works properly.
    
-   Here is strongly recommended to use a termina as [Realterm](https://sourceforge.net/projects/realterm/) to get feedback from the board for any problems which might occurred.
+   Here is strongly recommended to use a terminal as [Realterm](https://sourceforge.net/projects/realterm/) to get feedback from the board for any problems which might occurred.
    
    
    
